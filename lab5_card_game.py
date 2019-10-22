@@ -4,6 +4,7 @@
 # date: 17-10-2019
 # purpose: Lab 5 - GUI and card game using queue
 
+
 from tkinter import *
 # to use the queue FIFO
 from queue import Queue
